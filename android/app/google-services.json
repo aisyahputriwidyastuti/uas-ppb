@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427363889607",
+    "project_id": "aplikasi-uas-1432d",
+    "storage_bucket": "aplikasi-uas-1432d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427363889607:android:0564d40d920e3a787129e2",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58MNsKmCjo47Yca79B5hxEDEPRYaCszQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
